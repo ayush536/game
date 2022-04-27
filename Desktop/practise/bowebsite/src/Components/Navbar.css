@@ -1,0 +1,15 @@
+.ayu{
+    border: 1px solid;
+    height: 80px;
+    width: 100%;
+    background-color: antiquewhite;
+    display: flex;
+}
+.ayu>div{
+    border: 1px solid;
+    width: 33%;
+    height: 100%;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 900;
+}

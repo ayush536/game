@@ -1,0 +1,54 @@
+{
+  "available": [
+    {
+      "Capacity": "56",
+      "verified": "absolutely yes",
+      "Name": "Ayush Dhondiyal",
+      "City": "delhi",
+      "Address": "New Delhi",
+      "Cost_per_day": "567",
+      "Rating": "5",
+      "id": 1
+    },
+    {
+      "Name": "anshu",
+      "City": "bangalore",
+      "Address": "laxmi nagar",
+      "Capacity": "54",
+      "verified": "No",
+      "Rating": "3",
+      "Cost_per_day": "1000",
+      "id": 2
+    },
+    {
+      "Name": "pranjal",
+      "City": "mumbai",
+      "Address": "chandrapur",
+      "Capacity": "5",
+      "Cost_per_day": "1000",
+      "verified": "YES",
+      "Rating": "5",
+      "id": 3
+    },
+    {
+      "Name": "pratik",
+      "City": "kolkata",
+      "Address": "habra",
+      "Capacity": "78",
+      "Cost_per_day": "1500",
+      "verified": "NO",
+      "Rating": "2",
+      "id": 4
+    },
+    {
+      "Name": "Ayush Dhondiyal",
+      "City": "delhi",
+      "Address": "New Delhi",
+      "Capacity": "1",
+      "Cost_per_day": "1",
+      "verified": "y",
+      "Rating": "1",
+      "id": 5
+    }
+  ]
+}
